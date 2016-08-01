@@ -1,0 +1,164 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.fr{
+	float:right;
+}
+.fl{
+	float:left;
+}
+.clear :after{
+    content: "";
+    clear:both;
+    display: block;
+}
+.outer{
+	width:1600px;
+	height:1189px;
+}
+.header{
+	width:1600px;
+	height:1128px;
+	background:url(image7/c1.png) no-repeat;
+}
+.top{
+	width:1600px;
+	height:35px;
+	background-color: #262626;
+	
+}
+.t1{
+	width:52px;
+	font-size: 16px;
+    font-family: "微软雅黑";
+    color:#fff;
+    line-height:35px;
+    margin-left: 230px;
+}
+.t2{
+    width:1000px;
+    height:35px;
+    margin-left: 98px;
+}
+.top a{
+	height:35px;
+    text-decoration: none;
+    color:#fff;
+    font-family: "微软雅黑";
+    font-size:12px;
+    line-height:35px;
+    margin-right:44px;
+
+}
+ a.t2-1{
+	margin-right: 30px;
+}
+.t3{width:16px;
+	height:35px;
+}
+.t3 i{
+	width:16px;
+	height:19px;
+	background: url(image1/h1.png) no-repeat;
+	display: inline-block;
+	margin-top:12px;
+}
+.center{
+	width:1150px;
+	height:1017px;
+	margin:30px auto;
+	background: url(image7/c2.png) no-repeat;
+	overflow: hidden;
+}
+.c1{
+	width:109px;
+	height:28px;
+	font-size:16px;
+	font-family: "微软雅黑";
+	line-height: 28px;
+	text-align: center;
+	background-color:#cb00da;
+	margin-top:30px;
+	margin-left: 30px;
+	color: #fff; 
+}
+.c2{
+	width:1022px;
+	height:810px;
+	margin:32px auto;
+	
+}
+.c2-1{
+	width:1022px;
+	height:279px;
+	background: url(image7/c3.png) no-repeat;
+}
+.c2-2{
+	width:1022px;
+	height:242px;
+	margin-top:28px;
+}
+.c2-2-1{
+    width:328px;
+    height:242px;
+    background: url(image7/c4.png) no-repeat;
+}
+.c2-2-2{
+	width:666px;
+	height:242px;
+	font-size:12px;
+	font-family: "微软雅黑";
+	color:#818181;
+	text-indent: 28px;
+}
+.c2a{
+	margin-top:12px;
+	display: inline-block;
+}
+.c2-3{
+	width:1022px;
+	height:236px;
+	margin-top:28px;
+}
+.c2-3-1{
+	width:498px;
+	height:236px;
+	background: url(image7/c5.png) no-repeat;
+}
+.c2-3-2{
+	width:494px;
+	height:236px;
+	background: url(image7/c6.png) no-repeat;
+}
+.footer{
+	width:1600px;
+	height:58px;
+	background-color: #f4f4f4;
+}
+.f-1{
+	width:1144px;
+	height:58px;
+	margin:0 auto;
+	font-family: "微软雅黑";
+    
+}
+.f-2{
+	height:58px;
+	width:375px;
+}
+.f-1 a{
+    text-decoration:none;
+    color:#7e7e7e;
+    font-family: "微软雅黑";
+    font-size:12px;
+    margin-right:21px;
+    line-height: 58px;
+}
+.f-3{
+	width:750px;
+	font-size:12px;
+	font-family: "微软雅黑";
+	color:#7e7e7e;
+	line-height: 58px;
+}
